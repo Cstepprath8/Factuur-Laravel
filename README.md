@@ -1,2 +1,17 @@
-# Factuur-Laravel
-Dit is mijn Factuur project gemaakt in Laravel! 
+# 🚀 Laravel Factuur Project
+
+Een simpele factuur-applicatie in **Laravel** die geen database gebruikt.  
+Met dit project kan je een factuur invoeren, berekenen en printen.
+
+---
+
+## 🛠 Hoe open je het project?
+
+- start de laravel server
+- ga naar **http://127.0.0.1:8000\factuur**
+
+---
+
+
+
+

@@ -1,7 +1,9 @@
 <?php
-
+// Colin Stepprath
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\FactuurController;
 
-Route::get('/factuur', function () {
-    return 'Welcome this is my first test!';
-});
+Route::get('/factuur', [FactuurController::class, 'index']);
+Route::post('/factuur', [FactuurController::class, 'calculate'])->name('factuur.calculate');
+
+
