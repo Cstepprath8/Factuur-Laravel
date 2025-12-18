@@ -10,7 +10,6 @@ Met dit project kan je een factuur invoeren, berekenen en printen.
 - start de laravel server
 - ga naar **http://127.0.0.1:8000\factuur**
 
----
 
 
 
