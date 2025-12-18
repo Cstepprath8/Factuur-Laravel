@@ -12,7 +12,7 @@ Met dit project kan je een factuur invoeren, berekenen en printen.
 
 ---
 
-# 🚀 Welke bestanden heb ik gebruikt?
+# 📂 Welke bestanden heb ik gebruikt?
 
 - routes/web.php
 - app/Http/Controllers/FactuurController.php
